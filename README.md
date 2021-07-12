@@ -1,5 +1,5 @@
 # justForTest
-``` puml
+``` uml
 skinparam linetype ortho
 left to right direction
 
